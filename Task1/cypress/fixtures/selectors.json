@@ -1,0 +1,9 @@
+{
+  "day": ".page-nav__day",
+  "movie": ".movie",
+  "accept_button": ".acceptin-button",
+  "body": "body",
+  "admin_form": "#hall-control > .conf-step__header",
+  "buying_scheme": ".buying-scheme__wrapper",
+  "child": ":nth-child"
+}
